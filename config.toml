@@ -1,0 +1,82 @@
+baseURL = "https://liminalgraph.hackalong.io"
+languageCode = "en-us"
+title = "Liminal Graph"
+theme = "infinity-hugo"
+
+[params]
+
+# Navigation
+[params.navigation]
+logo = "images/hackalonglogo1.png"
+home = "Home"
+about = "About"
+service = "Tech"
+contact = "Contact"
+
+# Hero Area
+[params.hero]
+enable      = true
+bg          = "images/membrane1.jpg"
+title       = "The Liminal Identity Graph"
+subtitle    = "Addressing vendor lock-in with mutually sovereign social graphs!"
+btnText     = "More"
+countdownYear = "2020"
+countdownMonth = "12"
+countdownDay  = "31"
+
+# About Section
+[params.about]
+enable      = true
+heading     = "Portable identity without vendor lock in!"
+description = "Taking ownership of your data means that you can now reuse it; as this includes your connections it means you can port them into any compatible application in the Holochain ecosystem or connected to it. Only people you trust and permit may access information you share."
+
+[[params.about.sliderItem]]
+image   = "images/LiminalGraph.png"
+
+# Service Section
+[params.service]
+enable      = true
+title       = "Web of Trust Technology"
+subtitle    = "Say no to behavioural manipulation and big techs irresponsible use of your data"
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-strategy"
+title   = "Portable data"
+description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+delay   = "0s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-circle-compass"
+title   = "Portable data"
+description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+delay   = "0.2s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-anchor2"
+title   = "Portable data"
+description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+delay   = "0.4s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-globe"
+title   = "Portable data"
+description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+delay   = "0.6s"
+
+# Call to Action Section
+[params.cta]
+enable      = true
+bg          = "images/Board.jpeg"
+title       = "Thanks for visiting!"
+subtitle    = ""
