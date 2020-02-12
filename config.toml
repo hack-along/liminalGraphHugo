@@ -38,13 +38,14 @@ image   = "images/LiminalGraph.png"
 enable      = true
 title       = "Web of Trust Technology"
 subtitle    = "Say no to behavioural manipulation and big techs irresponsible use of your data"
+
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon    = "tf-strategy"
-title   = "Portable data"
-description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+icon    = "tf-anchor2"
+title   = "Safe Technology"
+description = "The technology we are leveraging is unenclosable cannot be exploited by big tech or anyone"
 delay   = "0s"
 
 [[params.service.serviceItem]]
@@ -53,16 +54,16 @@ delay   = "0s"
 # use delay for reveal items one by one
 icon    = "tf-circle-compass"
 title   = "Portable data"
-description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+description = "Your personal data is now portable, including your social network. No more issues with vendor lock in!"
 delay   = "0.2s"
 
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon    = "tf-anchor2"
-title   = "Portable data"
-description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+icon    = "tf-strategy"
+title   = "Inter-relational"
+description = "Enable trusted parties to leverage your capabilities without gatekeepers prescribing how!"
 delay   = "0.4s"
 
 [[params.service.serviceItem]]
@@ -70,8 +71,8 @@ delay   = "0.4s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon    = "tf-globe"
-title   = "Portable data"
-description = "Your personal data is now portable, meaning your social network is too. No more vendor lock in!"
+title   = "Community Oriented"
+description = "Strore and visualise your grass roots connections from the bottom up on a human centric internet"
 delay   = "0.6s"
 
 # Call to Action Section
