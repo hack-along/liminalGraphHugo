@@ -28,7 +28,7 @@ countdownDay  = "31"
 [params.about]
 enable      = true
 heading     = "Portable identity without vendor lock in!"
-description = "Taking ownership of your data means that you can now reuse it; as this includes your connections it means you can port them into any compatible application in the Holochain ecosystem or connected to it. Only people you trust and permit may access information you share."
+description = "Taking ownership of your data means that you can now reuse it; as this includes your connections it means you can port them into any compatible application in the Holochain ecosystem or connected to it. Only people you trust and permit may access information you share. Learn more about digital identiy and web of trust [here](https://github.com/Joshfairhead/Resources/wiki/B.-Identity-Primers)"
 
 [[params.about.sliderItem]]
 image   = "images/LiminalGraph.png"
